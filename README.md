@@ -1,4 +1,4 @@
-# H3-skyscanner
+# Sky-scanner
 
 ## To start the project
 
